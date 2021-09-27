@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nemacoolboy
 - 👀 I’m interested in ...games
-- 🌱 I’m currently learning ...frontend dev
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...https://www.instagram.com/r4batyaga/
 
